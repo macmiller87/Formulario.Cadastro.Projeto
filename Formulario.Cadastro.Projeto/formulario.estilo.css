@@ -1,0 +1,32 @@
+body {
+    background: rgb(70, 142, 236);
+
+
+}
+
+header {
+    font: normal 16px arial;
+    text-align: center;
+    color: red;
+}
+
+h2 {
+    font: normal 28px arial;
+    text-align: left;
+    color: white;
+}
+section {
+    font: normal 20px arial;
+    color: white;
+    text-align: left;
+}
+
+div {
+    padding: 8px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
